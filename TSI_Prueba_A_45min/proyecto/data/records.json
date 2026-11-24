@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "nombre": "Sensor de temperatura",
+    "ubicacion": "Laboratorio A",
+    "estado": "activo"
+  },
+  {
+    "id": 102,
+    "nombre": "Sensor de humedad",
+    "ubicacion": "Laboratorio B",
+    "estado": "activo"
+  },
+  {
+    "id": 103,
+    "nombre": "Gateway industrial",
+    "ubicacion": "Sala de redes",
+    "estado": "revision"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "texto": "sensor funciona correctamente",
+    "categoria": "normal"
+  },
+  {
+    "texto": "lectura estable equipo operativo",
+    "categoria": "normal"
+  },
+  {
+    "texto": "temperatura dentro de rango",
+    "categoria": "normal"
+  },
+  {
+    "texto": "equipo con lecturas normales",
+    "categoria": "normal"
+  },
+  {
+    "texto": "sensor sin señal requiere atención urgente",
+    "categoria": "critico"
+  },
+  {
+    "texto": "falla crítica en gateway industrial",
+    "categoria": "critico"
+  },
+  {
+    "texto": "alarma temperatura fuera de rango",
+    "categoria": "critico"
+  },
+  {
+    "texto": "dispositivo no responde urgente",
+    "categoria": "critico"
+  }
+]
